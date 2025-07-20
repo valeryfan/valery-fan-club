@@ -25,3 +25,17 @@ p.perex {
     font-style: italic;
     color: #944;
 }
+figure.illustration {
+    margin: 1em 0;
+    padding: 0;
+    text-align: center;
+    max-width: 100%;
+}
+
+figure.illustration img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 4px;
+}
